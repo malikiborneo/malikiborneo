@@ -28,3 +28,5 @@ Experienced in defence and aerospace company to advance and develop cutting-edge
 
 If there is something you want to discuss, I will be happy to help you.
 Feel free to contact me: at rezamaliki.akbar@gmail.com
+
+Go to https://linktr.ee/maliki_borneo/ 
