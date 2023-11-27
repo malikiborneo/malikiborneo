@@ -26,7 +26,4 @@ Has outstanding competencies in programming, software engineering, robotics, aut
 Experienced in defence and aerospace company to advance and develop cutting-edge engineering competencies, especially in surveillance radar, rugged military computer and networking, military standard of electronics and electrical, combat management systems and integration with other subsystems, sensors, and effectors such as gun/canon, surface-to-surface missile, fire control system, electronic optical director, electronic support/countermeasures, and soft kill/decoy system.
 
 
-If there is something you want to discuss, I will be happy to help you.
-Feel free to contact me: at rezamaliki.akbar@gmail.com
-
 Go to https://linktr.ee/maliki_borneo/ 
