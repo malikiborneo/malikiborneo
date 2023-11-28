@@ -31,6 +31,6 @@ Go to https://linktr.ee/maliki_borneo/
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  <img align="left" alt="Maliki's Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikiborneo7&show_icons=true&theme=calm" />
+  <img align="left" alt="Maliki's Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikiborneo&show_icons=true&theme=calm" />
 
 </details>
