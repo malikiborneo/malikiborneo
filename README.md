@@ -38,6 +38,8 @@ I have experience in the defence and aerospace industry, developing cutting-edge
 ### **More about me?**
 
 Go to https://linktr.ee/maliki_borneo/ 
+<br />
+<br />
 
 <details>
   <summary>🧑‍💻 GitHub Stats</summary>
@@ -45,7 +47,7 @@ Go to https://linktr.ee/maliki_borneo/
   <img align="left" alt="Maliki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=malikiborneo&show_icons=true&theme=calm" />
 
 </details>
-
+<br />
 <details>
   <summary>📜 Most Used Languages</summary>
 
