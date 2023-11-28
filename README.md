@@ -40,7 +40,14 @@ I have experience in the defence and aerospace industry, developing cutting-edge
 Go to https://linktr.ee/maliki_borneo/ 
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>🧑‍💻 GitHub Stats</summary>
+
+  <img align="left" alt="Maliki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=malikiborneo&show_icons=true&theme=calm" />
+
+</details>
+
+<details>
+  <summary>📜 Most Used Languages</summary>
 
   <img align="left" alt="Maliki's Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikiborneo&show_icons=true&theme=calm" />
 
