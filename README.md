@@ -1,4 +1,4 @@
-### Reza Maliki Akbar
+# Reza Maliki Akbar
 
 <!--
 **malikiborneo/malikiborneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A mechatronics and automation engineer also a hobbyist, and a maker. High passion for putting hands-on skills and knowledge to make something useful for solving problems.
+🤖 Profile:
 
-As a lifelong, adept, and versatile learner who is always inquisitive and eager to be up-to-date with knowledge, thus always have innovation, increase self-esteem, and find new challenges, ideas, and experiences.
+I'm a mechatronics and automation engineer, a hobbyist, and a maker with a high passion for hands-on skills and knowledge. I love creating something useful to solve problems. 🛠️
 
-Hold a mechatronics and automation associate's degree and a bachelor of engineering in engineering/applied physics, a fusion of science and engineering in general, to be a bridge, intersection, and connection between physics and engineering for theoretical and experimental aspects. Also studied software engineering and informatics in a vocational high school.
+📚 Learning & Innovation:
 
-Has outstanding competencies in programming, software engineering, robotics, autonomous vehicle, artificial intelligence, electronics, manufacturing, machinery, network engineering, and telecommunication.
+As a lifelong, adept, and versatile learner, I'm always inquisitive and eager to stay up-to-date. My journey is filled with innovation, increased self-esteem, and a constant search for new challenges, ideas, and experiences. 🚀
 
-Experienced in defence and aerospace company to advance and develop cutting-edge engineering competencies, especially in surveillance radar, rugged military computer and networking, military standard of electronics and electrical, combat management systems and integration with other subsystems, sensors, and effectors such as gun/canon, surface-to-surface missile, fire control system, electronic optical director, electronic support/countermeasures, and soft kill/decoy system.
+🎓 Education:
 
+I hold an associate's degree in Mechatronics and Automation and a Bachelor of Engineering in Engineering/Applied Physics. My education is a fusion of science and engineering, bridging physics and engineering for both theoretical and experimental aspects. Additionally, I've studied software engineering and informatics in vocational high school. 💻
+
+🔧 Skills:
+
+My competencies include programming, software engineering, robotics, autonomous vehicles, artificial intelligence, electronics, manufacturing, machinery, network engineering, and telecommunication. 🌐
+
+🛰️ Experience:
+
+I have experience in the defence and aerospace industry, developing cutting-edge engineering competencies in surveillance radar, military computing and networking, military standard electronics, combat systems, and integration with various subsystems. This includes work on gun/canon systems, missiles, fire control, electronic optics, and electronic support/countermeasures. 🚢✈️🛰️📡🪖
+
+More about me?
 
 Go to https://linktr.ee/maliki_borneo/ 
 
