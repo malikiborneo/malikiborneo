@@ -37,7 +37,16 @@ I have experience in the defence and aerospace industry, developing cutting-edge
 
 ### **More about me?**
 
-Go to https://linktr.ee/maliki_borneo/ 
+Go to: https://linktr.ee/maliki_borneo/ 
+
+My portfolios:
+
+https://its.id/PortfolioRezaMalikiAkbar/  
+
+https://its.id/ProjDocumRezaMalikiAkbar
+
+https://maliki.streamlit.app
+
 <br />
 <br />
 
