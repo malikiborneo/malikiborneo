@@ -42,10 +42,18 @@ I have experience in the defence and aerospace industry, developing cutting-edge
 - Naval decoy or Soft-Kill Weapon System (SKWS) [C-Guard]
 
   
-and integration with various subsystems.
+and integration with various subsystems (e.g. on a vessel/ship: DDU (Data Distribution Unit), gyro, INS (Inertial Navigation System), AIS (Automatic Identification System), GPS, compass, ECDIS, weather station, echo-sounder, navigation radar).
 
 
-This includes work on gun/canon systems, missiles (e.g. SSM: Surface-to-Surface Missile systems), fire control systems (FCS), electronic-optical director (EOD), and electronic support/countermeasures (ESM/ECM). 🚢✈️🛰📡🪖
+This includes work on other combat systems:
+- Data Link
+- Fire Control Systems (FCS)
+- Electronic-Optical Director (EOD)
+- Gun/canon systems
+- Missiles (e.g. SSM: Surface-to-Surface Missile systems)
+- Electronic support/countermeasures (ESM/ECM)
+
+🚢✈️🛰📡🪖
 
 ### **More about me?**
 
