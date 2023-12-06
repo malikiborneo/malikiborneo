@@ -33,7 +33,15 @@ My competencies include programming, software engineering, robotics, autonomous 
 
 ## 🛰️ **Experience**
 
-I have experience in the defence and aerospace industry, developing cutting-edge engineering competencies in surveillance radar, military computing and networking, military standard electronics, combat systems, and integration with various subsystems. This includes work on gun/canon systems, missiles, fire control, electronic optics, and electronic support/countermeasures. 🚢✈️🛰📡🪖
+I have experience in the defence and aerospace industry, developing cutting-edge engineering competencies in
+- Surveillance Radar (including RF & microwave test and measurements) [SCANTER]
+- Identification Friend or Foe (IFF) or Secondary Surveillance Radar (SSR)
+- Military computing and networking
+- Military-standard electronics warfare (e.g. FPGA, MIL wiring and harness IPC-certified)
+- Combat systems, C2 systems, Combat Management Systems [C-Flex]
+- Naval decoy or Soft-Kill Weapon System (SKWS) [C-Guard]
+and integration with various subsystems.
+This includes work on gun/canon systems, missiles (e.g. SSM: Surface-to-Surface Missile systems), fire control systems (FCS), electronic-optical director (EOD), and electronic support/countermeasures (ESM/ECM). 🚢✈️🛰📡🪖
 
 ### **More about me?**
 
