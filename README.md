@@ -55,6 +55,12 @@ This includes work on other combat systems:
 
 🚢✈️🛰📡🪖
 
+## 🤝🏼 **Organisation**
+
+- Founder and General Manager at Banyubramanta ITS (Underwater and Amphibious Robotics Team) 2018-2020
+- Founder and Chairman at Forum Iptek Pembangunan SMKN 1 Cimahi (STEM youth scientific study collaborative club) 2010-2012
+- Head of Division 9 (Information and Communication Technology) Student Council SMKN 1 Cimahi 2011-2012
+
 ### **More about me?**
 
 Go to: https://linktr.ee/maliki_borneo/ 
