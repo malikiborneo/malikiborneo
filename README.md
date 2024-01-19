@@ -37,9 +37,10 @@ I have experience in the defence and aerospace industry, developing cutting-edge
 - Surveillance Radar (including RF & microwave test and measurements) [SCANTER]
 - Identification Friend or Foe (IFF) or Secondary Surveillance Radar (SSR)
 - Military computing and networking
-- Military-standard electronics warfare (e.g. FPGA, MIL wiring and harness IPC-certified)
+- Military-standard electronics warfare (e.g. FPGA, MIL wiring and harness IPC-certified) | IPC/WHMA-A-620 | ECSS-Q-70-26 | Electrostatic Discharge (ESD) Control | Foreign Object Debris/Damage (FOD) Prevention and Awareness
 - Combat systems, C2 systems, Combat Management Systems [C-Flex]
 - Naval decoy or Soft-Kill Weapon System (SKWS) [C-Guard]
+- 
 
   
 and integration with various subsystems (e.g. on a vessel/ship: DDU (Data Distribution Unit), gyro, INS (Inertial Navigation System), AIS (Automatic Identification System), GPS, compass, ECDIS, weather station, echo-sounder, navigation radar).
